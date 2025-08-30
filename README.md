@@ -50,4 +50,4 @@ This project will be released under an open-source license upon completion.
 
 ---
 
-*BudgetBuddy is your companion for smarter budgeting and
+*BudgetBuddy is your companion for smarter budgeting and financial wellness!*
